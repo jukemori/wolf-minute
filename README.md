@@ -56,8 +56,7 @@ rails s
 - [Bootstrap](https://getbootstrap.com/) — Styling
 - [Figma](https://www.figma.com) — Prototyping
 
-## Acknowledgements
-Inspired by Airbnb
+
 
 ## Team Members
 - [Juan Bernal](https://github.com/mesieou)
