@@ -35,7 +35,7 @@ OPENTOK_API_SECRET= opentok_api_secret
 MODERATOR_NAME= WOLFMINUTE
 PARTY_PASSWORD= PASSWORD
 CLOUD_MERSIVE= d3f3351a-5eaf-44d8-8845-e3f8159f04d3
-
+```
 ### DB Setup
 ```
 rails db:create
